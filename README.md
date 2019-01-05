@@ -8,6 +8,11 @@ Some sorting algorithms like:
   <li>Bubble</li>
   <li>Merge</li>
 </ul>
+<p>Some searching algorithms like:</p>
+<ul>
+  <li>Linear / Secuential</li></li>
+  <li>Binary</li>
+</ul>
 
 <h1><b>Algoritmos</b></h1>
 La idea de este repositorio es compartir con la gente conocimiento de diferentes áreas en algunos de los lenguajes que conozco.
@@ -19,4 +24,11 @@ Algunos algoritmos de ordenamiento como:
   <li>Selección</li>
   <li>Burbujeo</li>
   <li>Mezcla</li>
+</ul>
+
+<p>Algunos algoritmos de busqueda como:</p>
+
+<ul>
+  <li>Lineal / Secuencial</li>
+  <li>Binaria</li>
 </ul>
