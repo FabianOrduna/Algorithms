@@ -4,7 +4,12 @@
  * and open the template in the editor.
  */
 package projects;
-import Trees.BinaryTree;
+//import Trees.BinaryTree;
+
+import ai.DataMinMax;
+import ai.MiniMax;
+import ai.MyNumber;
+
 /**
  * @author Fabián Orduña Ferreira
  * @mail fabian_ordufer@yah
@@ -15,7 +20,7 @@ public class Projects {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        /**
         int [] arre = {5,5,7,6,8,3};
         BinaryTree arbol = new BinaryTree();
         
@@ -30,6 +35,22 @@ public class Projects {
         int elem = -5;
         System.out.println("Buscando el elemento "+ elem);
         System.out.println(arbol.searchElem(elem));
+        * 
+        */
+        
+        //PARA PROBAR EL MINIMAX
+        //EN TEORIA, CUANDO SE LE DA EL PRIMER VALOR Y LA PROFUNDIDAD
+        //CREA EN AUTOMATICO TODOS LOS NIVELES QUE NECESITE...
+        MyNumber n = new MyNumber();
+        System.out.println(n.getNumber());
+        MiniMax mm = new MiniMax(n,4);
+        System.out.println("Data of head MiniMax");
+        mm.inlineOrder();
+        mm.runMiniMax();
+        System.out.println("--------------------------------------------------");
+        System.out.println("After running MiniMax algorithm to get best option");
+        mm.inlineOrder();
+        
     }
     
 }
