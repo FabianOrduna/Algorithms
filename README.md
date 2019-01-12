@@ -13,11 +13,15 @@ Some sorting algorithms like:
   <li>Linear / Secuential</li></li>
   <li>Binary</li>
 </ul>
+<p>Some AI (Artificial Intelligence) algorithms:</p>
+<ul>
+  <li>Generic Minimax</li>
+</ul>
 
 <h1><b>Algoritmos</b></h1>
 La idea de este repositorio es compartir con la gente conocimiento de diferentes áreas en algunos de los lenguajes que conozco.
 
-Algunos algoritmos de ordenamiento como:
+<p>Algunos algoritmos de ordenamiento como:</p>
 
 <ul>
   <li>Insercion</li>
@@ -31,4 +35,8 @@ Algunos algoritmos de ordenamiento como:
 <ul>
   <li>Lineal / Secuencial</li>
   <li>Binaria</li>
+</ul>
+<p>Algunos algoritmos de IA (Inteligencia Artificial):</p>
+<ul>
+  <li>Minimax genérico</li>
 </ul>
